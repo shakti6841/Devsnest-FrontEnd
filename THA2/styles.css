@@ -14,3 +14,11 @@ body{
 .date{
     font-family: Arial, Helvetica, sans-serif;
 }
+table {
+    border: solid 1px black;
+    align-items: center;
+    padding: 10px;
+}
+.greeting{
+    color: crimson;
+}
