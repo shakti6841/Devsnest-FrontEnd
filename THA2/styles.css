@@ -1,0 +1,16 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
+
+.content{
+    font-family: 'Courier New', Courier, monospace;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.date{
+    font-family: Arial, Helvetica, sans-serif;
+}
